@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice;
+package br.com.cambio.monetario.currencyexchangeservice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
