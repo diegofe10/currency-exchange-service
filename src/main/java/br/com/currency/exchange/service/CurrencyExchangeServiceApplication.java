@@ -1,4 +1,4 @@
-package br.com.cambio.monetario.currencyexchangeservice;
+package br.com.currency.exchange.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

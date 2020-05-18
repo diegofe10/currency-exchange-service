@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice;
+package br.com.currency.exchange.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

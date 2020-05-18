@@ -1,4 +1,4 @@
-package br.com.cambio.monetario.currencyexchangeservice;
+package br.com.currency.exchange.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

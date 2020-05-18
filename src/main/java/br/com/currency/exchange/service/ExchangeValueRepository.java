@@ -1,4 +1,4 @@
-package br.com.cambio.monetario.currencyexchangeservice;
+package br.com.currency.exchange.service;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
