@@ -50,7 +50,7 @@ $ docker run -d --rm --network=host ${SERVICE_NAME}:latest
 
 -   Use the host's network stack inside the container.
 
-### 3.Removing and cleaning the containers
+### 4.Removing and cleaning the containers
 
 ```
 $ docker stop ${CONTAINER_ID}
