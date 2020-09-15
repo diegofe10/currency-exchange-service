@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:ubi
+FROM openjdk:8-jdk-alpine
 ENV APP_NAME exchange-currency-service
 ENV APP_HOME ${HOME}
 ADD exchange-currency-service/target/${APP_NAME}.jar ${APP_NAME}.jar
