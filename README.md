@@ -16,7 +16,7 @@ An microservice with Java 8, Spring Cloud Finchley M8 and Netflix OSS
 Microservice with a currency exchange service.
 
 
-Microservice responsible for starting the application using the framework`@SpringBootApplication` and for sending and receiving the type of currency desired, the currency type, example:
+Microservice responsible for sending and receiving the type of currency desired, the currency type, example:
 
 - BRL;
 - USD;
