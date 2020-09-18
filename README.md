@@ -39,13 +39,13 @@ $ mvn clean install -U
 ### 2. Build docker image
 
 ```
-$ docker build -t ${APP_NAME}:latest
+$ docker build -t ${APPLICATION_NAME}:latest
 ```
 
 ### 3. Run the container
 
 ```
-$ docker run -d --rm --network=host ${APP_NAME}:latest
+$ docker run -d --rm --network=host ${APPLICATION_NAME}:latest
 ```
 
 -   Use the host's network stack inside the container.
