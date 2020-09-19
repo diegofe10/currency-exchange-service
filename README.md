@@ -13,9 +13,6 @@ An microservice with Java 8, Spring Cloud Finchley M8 and Netflix OSS
 
 > **currency-exchange-service**
 
-Microservice with a currency exchange service.
-
-
 Microservice responsible for sending and receiving the type of currency desired, the currency type, example:
 
 - BRL;
