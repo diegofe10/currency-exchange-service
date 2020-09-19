@@ -5,7 +5,7 @@ An microservice with Java 8, Spring Cloud Finchley M8 and Netflix OSS
 
 ## Reference Documentation
 
-### Modules
+### Microservice
 
 -   currency-exchange-service
 
