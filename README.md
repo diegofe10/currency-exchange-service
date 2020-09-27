@@ -1,7 +1,7 @@
 
 # Currency Exchange Service
 
-An microservice with Java 8, Spring Cloud Finchley M8 and Netflix OSS
+An microservice with Java 8, Spring Cloud Finchley M8, Open Feign for RESTful Client, Netflix Ribbon, Netflix Hystrix, Spring Cloud Sleuth, Zipkin, Spring Cloud Starter Bus, Spring Cloud Config Client and Spring Data JPA, JUnit 4
 
 ## Reference Documentation
 
