@@ -13,7 +13,7 @@ An microservice with Java 8, Spring Cloud Finchley M8, Open Feign for RESTful Cl
 
 > **currency-exchange-service**
 
-Microservice responsible for sending and receiving the type of currency desired, the currency type, example:
+Microservice responsible for sending the type of currency desired, the currency type, example:
 
 - BRL;
 - USD;
